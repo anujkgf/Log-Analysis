@@ -14,7 +14,7 @@ This project involves analysing the given database and then answer the three que
 The database consist of three tables names authors, articles, log.
 1. authors table consists information about the authors.
 2. articles table consists information about the articles that the authors have written.
-3. log table consists of the data about the site usage.M
+3. log table consists of the data about the site usage.
 
 
 ## Dependency
@@ -26,7 +26,7 @@ To run this project you should have the following things on your computer.
 ## Instructions
 - Install virtual box and vagrant.
 - Download or clone Udacity full-stack nanodegree vm repository.
-- Download the database `newsdata.sql` and put this file in vagrant folder.
+- Download the database file `newsdata.sql` ([link](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip)) and put this file in vagrant folder.
 ---
 - Inside the FSND-vm folder open terminal.
 - Connect to vagrant using `vagrant up` & `vagrant ssh`.
